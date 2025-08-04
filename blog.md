@@ -5,4 +5,4 @@ description: Here be writings
 permalink: /blog
 ---
 
-Here be writings. Mostly mundane, sometimes fanciful.
+This is an attempt to revive a page where I went on an infinite rambling spree. This was about a few hundred billion years ago.

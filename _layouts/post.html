@@ -4,6 +4,10 @@ layout: compress
 
 {% include head.html %}
 
+{% if page.math %}
+  {% include mathjax.html %}
+{% endif %}
+
 <main>
 
     {% include header.html %}
