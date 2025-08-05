@@ -10,5 +10,5 @@ For a new Codespace, run the following:
 
 Make changes to files (use [jekyllBear](https://github.com/knhash/jekyllBear) repo for understanding).
 
-To serve and get a feel for the site run `bundle exec jekyll serve --incremental`.
+To serve and get a feel for the site run `bundle exec jekyll serve`.
 
