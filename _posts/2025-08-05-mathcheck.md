@@ -6,10 +6,10 @@ tags: [math]
 math: true
 ---
 
-Is mathjax working?
+is mathjax working?
 
 $$
 x
 $$
 
-Yes.
+yes.
