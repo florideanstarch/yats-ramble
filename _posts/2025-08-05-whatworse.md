@@ -7,5 +7,3 @@ math: false
 ---
 
 woke up to a dead phone screen. wow!
-
-wfh does have some benefits :)

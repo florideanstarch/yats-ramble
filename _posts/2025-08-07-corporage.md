@@ -6,6 +6,8 @@ tags: [ramblings]
 math: false
 ---
 
+my phone works, the guy who repaired it messed up the backlight though. i think i'll need a new phone asap as the backlight is always on!
+ 
 scrolling through linkedin came across the profile of someone who we did **not** accept in the company...they have a master's and a phd from EU plus some higher up referred them 
 
 now, who took that decision? few people who did not see "spark" in this candidate's eyes and some others who thought their "plant sciences" background did not fit a bizdev profile. well maybe! but all of this just feels wrong, another human's labour just written off as not good enough...but ig that is how you run a business, no emotions. and in sometime we might have agents doing all of this anyway (even if we do not, being sad about this someone is not worth it) 
